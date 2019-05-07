@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+You could decide that you need to make quick fixes that you know will work. You may also just want to add comments.
