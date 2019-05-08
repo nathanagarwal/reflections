@@ -3,3 +3,6 @@ You could decide that you need to make quick fixes that you know will work. You 
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 A bug may be identified by a collaborator online. Instead of accepting the version blindly, it could be possible to make appropriate changes.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Clones are identical copies of a repository. A fork is a clone that exists specifically through the Github server. A branch is a version of a working directory that has some set of changes from the main code. 
